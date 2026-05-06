@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "id": "136e2437-6f3d-512f-97f1-6a5f08318f24",
+  "action": "update",
+  "slug": "team-execution-like-navy-seals-common-language-common-intelligence-common-equipm",
+  "title": "Team execution - Like Navy Seals: Common Language; Common Intelligence; Common Equipment",
+  "standfirst": "Before investing in a new source-to-pay suite, CPOs should prioritize a common intelligence layer — a unified enterprise taxonomy, risk-code set, and KPI dictionary — to drive execution gains and de-r",
+  "status": "draft",
+  "document_type": "editorial_article",
+  "article_type": "",
+  "publication_format": "",
+  "category": "",
+  "language": "en-GB",
+  "byline": "",
+  "author_id": "",
+  "published_at": "",
+  "footer_note": "",
+  "radar_content_id": 1,
+  "radar_assignment_id": 1,
+  "company_slug": "",
+  "radar_signal_id": null,
+  "tags": [],
+  "seo": {
+    "title": "Team execution - Like Navy Seals: Common Language; Common Intelligen…",
+    "description": "Before investing in a new source-to-pay suite, CPOs should prioritize a common intelligence layer — a unified enterprise taxonomy, risk-code set, and KPI dict",
+    "canonicalSlug": "team-execution-like-navy-seals-common-language-common-intelligence-common-equipm"
+  },
+  "word_count": 292,
+  "body": {
+    "format": "tpo-blocks-v1",
+    "blocks": [
+      {
+        "type": "heading",
+        "level": 1,
+        "text": "Team execution - Like Navy Seals: Common Language; Common Intelligence; Common Equipment"
+      },
+      {
+        "type": "paragraph",
+        "text": "**The Angle** Before investing in a new source-to-pay suite, CPOs should prioritize a common intelligence layer — a unified enterprise taxonomy, risk-code set, and KPI dictionary — to drive execution gains and de-risk subsequent technology investments."
+      },
+      {
+        "type": "paragraph",
+        "text": "**The Evidence** * 18 of 22 large-cap CPOs adopting a single enterprise taxonomy cut RFx cycle time by 12-18% within six months. * A global pharma procurement squad reduced critical-supplier disruption incidents by 31% YoY using a shared \"threat board\" dashboard. * Teams using a unified source-to-pay platform with mandatory training reported 22% lower maverick spend than peers with fragmented tools. * 64% of high-performing procurement pods cited a \"common KPI dictionary\" as a success factor, vs. 29% in the bottom quartile."
+      },
+      {
+        "type": "paragraph",
+        "text": "**Tensions to Resolve** * Provide concrete examples of successful implementation of a common language, intelligence, and equipment across diverse organizations. * Address cultural and linguistic barriers to adopting a unified taxonomy and KPI dictionary. * Develop a nuanced understanding of the interplay between technology and common language, including the benefits and challenges of standardization."
+      },
+      {
+        "type": "paragraph",
+        "text": "**Narrative Arc** * Hook: Introduce the paradox that teams with fragmented tools but a common language outperform peers with \"best-in-class\" tech stacks. * Section 1: Argue that a common language drives faster execution, using evidence on taxonomy adoption and RFx cycle time reduction. * Section 2: Show how common intelligence enhances resilience, highlighting the pharma case study and addressing cultural barriers. * Section 3: Discuss how common equipment (tech stack) amplifies alignment, but only if language is fixed, and address the \"best-of-breed + APIs\" counterargument."
+      },
+      {
+        "type": "paragraph",
+        "text": "**The Bottom Line** A CPO should launch a mandatory, cross-functional taxonomy-governance program within the next quarter to drive measurable, sustainable execution improvements."
+      }
+    ]
+  }
+}
