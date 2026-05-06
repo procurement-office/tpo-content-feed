@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "be0852f6-f06b-5819-a947-846dbbbcbcef",
+  "action": "publish",
+  "slug": "data-enabled-optimization-of-strategic-sourcing-categories",
+  "title": "Data-enabled optimization of strategic sourcing categories",
+  "standfirst": "How a five-layer analytics architecture moves from raw spend data to prioritised savings opportunities.",
+  "status": "published",
+  "document_type": "editorial_article",
+  "article_type": "Analysis",
+  "publication_format": "",
+  "category": "",
+  "language": "en-GB",
+  "byline": "Hendrik Poelenjee",
+  "author_id": "044bf892-4985-11f1-bd16-001a4a05222a",
+  "published_at": "2025-09-04T00:00:00Z",
+  "footer_note": "",
+  "radar_content_id": 5,
+  "radar_assignment_id": null,
+  "company_slug": "",
+  "radar_signal_id": null,
+  "tags": [
+    "data-analytics",
+    "strategic-sourcing",
+    "spend-analysis"
+  ],
+  "seo": {
+    "title": "Data-enabled optimization of strategic sourcing categories",
+    "description": "How a five-layer analytics architecture moves from raw spend data to prioritised savings opportunities.",
+    "canonicalSlug": "data-enabled-optimization-of-strategic-sourcing-categories"
+  },
+  "word_count": 691,
+  "body": {
+    "format": "tpo-blocks-v1",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Most organisations are sitting on **8–15% in unrealised procurement savings** — not because their teams lack skill, but because they lack the data infrastructure to find and size those opportunities systematically. Spend data is fragmented across ERP systems, procurement platforms, and spreadsheets. Even when it is consolidated, the analytical layer to transform raw spend into prioritised action is almost always missing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The result is a familiar pattern: leadership commissions a savings programme, a consulting team spends three months cleansing and classifying data, and by the time actionable recommendations reach the desk, market conditions have shifted and the momentum has evaporated. The opportunity cost of slow analysis is not theoretical — every month of delay is compounding value left on the table."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The gap in the current landscape"
+      },
+      {
+        "type": "paragraph",
+        "text": "Existing enterprise tools have made meaningful progress on spend visibility. Platforms like SAP Ariba, Coupa, and Sievo are genuinely excellent at answering the question: *what are we spending?* They surface dashboards, track purchase orders, and enforce policy compliance with increasing sophistication. But they stop short of the harder question: *what should we do about it, with what confidence, and in what order?*"
+      },
+      {
+        "type": "paragraph",
+        "text": "The distinction matters enormously. A category manager looking at a spend cube showing €4.2 million in Professional Services still needs to determine: which suppliers are addressable for renegotiation, which categories have sufficient market depth for a competitive event, where consolidation would generate leverage, and which initiatives to pursue first given organisational bandwidth. Answering those questions currently requires significant manual analysis — or an expensive consulting engagement."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mid-market organisations face a compounding disadvantage. Without the budget for a six-month implementation of an enterprise analytics platform, and without the dedicated spend-intelligence team to operate it, they default to spreadsheet analysis that is slow, inconsistent, and non-repeatable."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A five-layer analytics architecture"
+      },
+      {
+        "type": "paragraph",
+        "text": "The framework underpinning systematic savings identification has five layers, each building on the last:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- **Data** — Ingestion and normalisation of spend transactions from multiple sources. The critical step is deduplication of supplier names and consistent treatment of currencies, date ranges, and inter-company flows. - **Classification** — Automated mapping of each spend line to a standardised taxonomy (L1/L2/L3). Keyword-based classification handles the majority of volume; machine-learning models improve accuracy at the tail. The output is a categorised spend cube. - **Analytics** — Aggregation into the metrics that matter: spend by category, supplier concentration, transaction distribution, year-on-year trend. This layer answers the visibility question that existing tools already address well. - **Intelligence** — The layer most tools do not reach. Pattern detection against known savings levers: single-source dependency, fragmented supply base, tail spend proliferation, off-contract leakage, and strategic supplier over-reliance. Each pattern maps to a quantified savings hypothesis with a confidence score and effort estimate. - **Action** — Translation of savings hypotheses into a prioritised workplan: specific suppliers to approach, negotiation strategies to deploy, and timelines grounded in category-specific benchmarks."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What makes the difference in practice"
+      },
+      {
+        "type": "paragraph",
+        "text": "The organisations that consistently realise procurement savings at the high end of the 8–15% range share three capabilities. First, **automated opportunity identification**: rather than relying on category managers to spot patterns manually, the system surfaces candidates continuously and ranks them by expected value. Second, **scenario modelling**: the ability to vary assumptions — addressable spend percentage, achievable discount rate, timeline — and immediately see the impact on projected savings. Third, **plain-language output** that communicates findings to stakeholders who are not procurement specialists, accelerating sign-off and implementation."
+      },
+      {
+        "type": "paragraph",
+        "text": "These capabilities do not require a Fortune 500 budget. With well-structured spend data and the right analytical layer, a mid-market procurement team of three people can run the equivalent analysis that previously required a team of ten and a six-month timeline — in hours, not months."
+      },
+      {
+        "type": "paragraph",
+        "text": "The interactive tool below is a working demonstration of this approach. Upload a CSV of your spend data — or explore the built-in sample — and see how quickly the five-layer architecture moves from raw transactions to prioritised savings opportunities. No account, no installation, no waiting."
+      },
+      {
+        "type": "image",
+        "alt": "Procurement Savings Analyser and Action Plan — upload spend data, identify opportunities, download your PDF.",
+        "src": "/assets/images/Procurement_Spend_Analyser.png"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Launch Procurement Value Scan →](analyser.html)"
+      }
+    ]
+  }
+}
