@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.0",
+  "id": "66e26f4e-d266-5fa0-8870-c35e8f078411",
+  "action": "publish",
+  "slug": "procurement-as-a-value-creator-what-cpo-data-tells-us",
+  "title": "Procurement as a value creator: what CPO data tells us",
+  "standfirst": "More than 40 studies, spanning 300,000+ data points across 58 countries, now form a consistent evidence base on procurement performance. The findings converge on one conclusion: the gap between procurement leaders and the rest is structural — and it is widening.",
+  "status": "published",
+  "document_type": "editorial_article",
+  "article_type": "Analysis",
+  "publication_format": "",
+  "category": "",
+  "language": "en-GB",
+  "byline": "Hendrik Poelenjee",
+  "author_id": "hendrik-poelenjee",
+  "published_at": "2026-03-14T00:00:00Z",
+  "footer_note": "",
+  "radar_content_id": 6,
+  "radar_assignment_id": null,
+  "company_slug": "",
+  "radar_signal_id": null,
+  "tags": [
+    "cpo-data",
+    "procurement-performance",
+    "value-creation",
+    "analysis"
+  ],
+  "seo": {
+    "title": "Procurement as a value creator: what CPO data tells us",
+    "description": "More than 40 studies, 300,000+ data points, 58 countries. The evidence on procurement performance is consistent: a 5-point EBITDA gap, a 34-point spend management gap, and a supplier relationship gap that most organisations are not closing.",
+    "canonicalSlug": "procurement-as-a-value-creator-what-cpo-data-tells-us"
+  },
+  "word_count": 2323,
+  "body": {
+    "format": "tpo-blocks-v1",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "For years, the business case for procurement investment was built in the language of savings. Cost reduction was the primary metric — the number that justified headcount, technology investment, and external expertise. That framing is not wrong. But the evidence accumulated across the most comprehensive body of CPO research now available shows it is seriously incomplete."
+      },
+      {
+        "type": "paragraph",
+        "text": "Annual surveys tracking 300 or more Chief Procurement Officers across 40 or more countries reveal a function in structural transition. Spend management — knowing what you buy, from whom, at what price — is being reclassified from a performance signal to a baseline competency. The organisations still treating it as a performance indicator are already behind. The conversation at CPO level has moved to adaptive capacity, upstream influence, supplier ecosystem architecture, and the strategic positioning of procurement as a competitive function within the business."
+      },
+      {
+        "type": "paragraph",
+        "text": "The organisations making this transition are not choosing resilience over savings. They are recognising that the two are inseparable — and that procurement optimised for cost alone has systematically miscalculated total value."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The performance gap is quantified"
+      },
+      {
+        "type": "paragraph",
+        "text": "The gap between procurement leaders and the rest is not marginal — it is structural and widening. Organisations with top-quartile procurement maturity consistently demonstrate EBITDA margins at least five percentage points higher than less mature peers. That differential does not close by negotiating harder on existing contracts. It is the product of organisational design — how procurement is positioned, when it enters decisions, and what authority it carries."
+      },
+      {
+        "type": "paragraph",
+        "text": "The operational benchmarks are equally stark. Best-in-class procurement organisations manage 91.5% of their addressable spend — against an average of 57.1%. That 34-point gap represents a substantial pool of unmanaged spend where costs are not challenged, supplier relationships are not structured, and risk is invisible. Top performers source 67.4% of addressable spend competitively, compared to 43.6% for the average — a 54% higher rate of competitive activity. Contract compliance runs 26% higher among world-class organisations."
+      },
+      {
+        "type": "paragraph",
+        "text": "These are not ceiling numbers. They are the benchmarks of consistent, structured procurement practice — available to any organisation prepared to close the capability gap."
+      },
+      {
+        "type": "paragraph",
+        "text": "- **5pts** — higher EBITDA margin in top-quartile procurement organisations vs. less mature peers - **91.5%** — spend under management in best-in-class organisations vs. 57.1% average — a 34-point gap - **25%** — performance advantage that top-quartile CPOs hold over their peers across value metrics"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The CPO mandate is shifting — faster than most organisations are moving"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cost savings remain the top-cited CPO priority, referenced by approximately 71% of procurement leaders in recent survey cycles. But the priorities sitting alongside savings tell a different story. In one major annual survey, sustainability and ESG jumped from seventh to second priority in a single cycle. Across the broader research, 64% of procurement organisations are now aligned to organisation-wide sustainability targets. A quarter of CPOs hold a permanent seat on the main board — up from one fifth the year prior. And 53% of senior leaders report that the CPO plays a more substantial role in high-level decision-making, compared to 46% two years earlier."
+      },
+      {
+        "type": "paragraph",
+        "text": "The direction of travel is unambiguous. Procurement is moving from back-office execution to boardroom function. The organisations adapting their operating model to match this mandate shift will compound the advantage. Those continuing to measure only savings will find their performance gap widening — not because they are getting worse, but because the benchmark is moving."
+      },
+      {
+        "type": "paragraph",
+        "text": "Critically, 90% of CPOs expect the operating environment to be more demanding in 2025 and beyond than it has been. Supply chain disruption driven by tariffs, geopolitical realignment, and sustained market volatility is not receding. 82% of companies report their supply chains are already affected by new tariff structures — with only 45% of those costs being passed through on average. Most organisations are absorbing rather than managing the impact. The ones that have built adaptive capacity — upstream entry, early market intelligence, ecosystem resilience — will absorb these pressures as a matter of operating model. Those that have optimised only for cost will encounter them as crises."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The upstream entry imperative"
+      },
+      {
+        "type": "paragraph",
+        "text": "The most consistently underexploited source of procurement value is not negotiation — it is timing. Research across industries and geographies consistently shows that the majority of enterprise cost is determined before procurement is involved: in the specification, the demand decision, the make-or-buy choice. Once the design is fixed, the supplier shortlist defined, and the scope of requirements locked, procurement is managing residual leverage at best."
+      },
+      {
+        "type": "paragraph",
+        "text": "73% of companies have made supply chain network changes in the past two years — moving away from single-source, single-geography models toward dual-source and regionalised structures. Among those that made the changes, 90% met or exceeded expected benefits. The organisations that avoided the worst supply disruptions of recent years were not fortunate — they had alternative sources established, risk modelled at the category level, and relationships with substitute suppliers before they were needed."
+      },
+      {
+        "type": "paragraph",
+        "text": "Yet board-level visibility into these risks remains limited. Only one quarter of companies maintain regular board-level reporting on supply chain risk. The remaining three quarters are responding reactively — discovering exposure at the point of disruption rather than managing it upstream. The gap between what procurement could contribute to this challenge and what it is currently empowered to contribute is the central argument for repositioning the function earlier in the decision chain."
+      },
+      {
+        "type": "paragraph",
+        "text": "Specification challenge and demand design applied upstream consistently produce financial outcomes that downstream negotiation cannot recover. The mechanism is not complex — it is a matter of organisational positioning, and the authority to act on it before cost is locked."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What value procurement looks like in practice"
+      },
+      {
+        "type": "paragraph",
+        "text": "The distinction that defines high-performing procurement is between how organisations source and how well they understand what they buy. Sourcing capability — category strategy, should-cost modelling, competitive tendering — establishes the right price from the right supplier on the right terms. Spend intelligence provides the visibility to make confident decisions across the full supply base, including the indirect and tail spend categories that typically escape scrutiny."
+      },
+      {
+        "type": "paragraph",
+        "text": "Both are necessary, and they compound each other when both are present. Organisations with strong sourcing capability but weak spend intelligence find that value leaks through maverick spend, off-contract purchasing, and unmanaged supplier proliferation. Organisations with strong spend visibility but weak sourcing execution see the opportunities but lack the process to capture them consistently."
+      },
+      {
+        "type": "paragraph",
+        "text": "The financial outcomes from organisations that have built both capabilities are consistent across sectors and geographies:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- **8–12% reduction in addressable spend** — consistent across pharma, energy, industrial, technology, and professional services sectors - **3–5% additional value** from spend intelligence applied to indirect and tail spend categories not previously managed competitively - **2–4% working capital improvement** through payment terms optimisation and inventory strategy aligned with procurement - **8.1% average savings across total spend** in procurement organisations with strong digital and process foundations — drawn from benchmark data covering $6 trillion in annual spend"
+      },
+      {
+        "type": "paragraph",
+        "text": "These are median outcomes, not ceiling numbers. The upper range consistently involves organisations where procurement has been elevated from a transactional to a strategic function — with the authority to challenge specifications upstream, influence supplier selection before the design closes, and manage supplier relationships for long-term value rather than lowest-price compliance."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The AI question: execution layer or strategic advantage?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Generative AI in procurement has passed through the hype phase and entered a more sober period of implementation reality. 89% of procurement organisations are now advancing GenAI initiatives — up from just 16% the prior year, a fivefold increase in twelve months. Yet 74% of procurement leaders acknowledge that their data is not AI-ready. Independent technology analysts have formally classified generative AI for procurement as having entered the Trough of Disillusionment — the phase where early expectations meet implementation complexity."
+      },
+      {
+        "type": "paragraph",
+        "text": "The gap between pilot activity and scaled value delivery is the defining challenge. 40% of procurement functions have implemented or piloted GenAI in some form. Where the conditions are right, the gains are real: AI copilots estimated to improve procurement team productivity by 25–40%; tender creation time reduced by up to 40%; category manager research time reduced by 50–75%; up to 15% category savings in well-structured GenAI deployments. These are not projections — they are outcomes from organisations that had already built the operational foundation before applying AI."
+      },
+      {
+        "type": "paragraph",
+        "text": "The pattern across the research is consistent: organisations capturing 8–15% incremental savings from AI-assisted procurement share one characteristic. They had already built the foundational capability — clean spend data, defined category strategies, structured supplier frameworks. AI accelerates good procurement process. It does not replace the absence of one. Procurement functions that deploy AI on top of an unreformed operating model automate their existing weaknesses at speed."
+      },
+      {
+        "type": "paragraph",
+        "text": "The correct sequence — challenge the demand, remove complexity, simplify the operating model, then apply AI — is not widely followed. It is, however, the sequence that produces durable results. Procurement spend managed per FTE has grown 50% over five years as digital capability compounds. Two-thirds of procurement heads now report directly to CEO or CFO. Both signals point in the same direction: procurement is being held to a higher standard of value delivery, and AI, deployed in the right order, is the mechanism that makes that standard commercially achievable."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The supplier relationship gap"
+      },
+      {
+        "type": "paragraph",
+        "text": "The most underexplored finding in recent procurement research is not about AI, cost reduction, or digital transformation. It is about supplier relationships — and the gap between what organisations recognise as a priority and what they actually practise."
+      },
+      {
+        "type": "paragraph",
+        "text": "In a survey of 1,000 supplier representatives across major industrial sectors, 98% reported wanting their largest customers to communicate better. 59% said they actively struggle to do their best work for their primary customers. Nearly half find it difficult to resolve even basic queries. This is not a marginal satisfaction gap — it is a structural failure with direct commercial consequences. When suppliers find customers difficult to work with, they deprioritise them: they allocate innovation capacity elsewhere, respond more slowly, share less intelligence, and volunteer less risk information."
+      },
+      {
+        "type": "paragraph",
+        "text": "The data on what suppliers would do if the relationship improved is instructive. They would send data faster, respond more accurately, volunteer additional information, and provide more detailed operational feedback. These are precisely the inputs that make category intelligence reliable, upstream specification challenge effective, and supply risk visible early enough to act on."
+      },
+      {
+        "type": "paragraph",
+        "text": "Yet 40% of organisations conduct no supplier relationship management at all. Only 56% of even high-performing procurement teams engage in collaborative problem-solving with their suppliers. Research across multiple sectors indicates that 55–65% of corporate innovations originate from external suppliers and partners — a figure that reframes the supplier relationship gap not as a procurement efficiency issue but as a corporate innovation and competitive advantage issue."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supplier collaboration was cited as the top strategy for value delivery by 61% of CPOs in one major annual survey — ranking ahead of digital transformation, demand management, and renegotiation. The capability is widely recognised. The consistent practice is not widely established. The organisations that close this gap and treat supplier relationships as a managed, reciprocal value architecture gain access to intelligence, innovation, and adaptive capacity that procurement operating at arm's length cannot generate."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Three capabilities that define high-performance procurement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Across more than 40 studies covering 300,000+ data points and organisations operating in 58 or more countries, the procurement functions consistently delivering competitive advantage share three characteristics — not tools, not headcount, but capabilities embedded in how the function operates."
+      },
+      {
+        "type": "paragraph",
+        "text": "**Spend intelligence as a discipline, not a project.** They know what they buy, at what terms, from whom — updated continuously, not annually. The 34-point spend-under-management gap between leaders and the average represents an enormous pool of unmanaged spend where costs are unchallenged and risk is invisible. Closing this gap is not a technology question first — it is an operating discipline question. The technology enables it; the discipline sustains it."
+      },
+      {
+        "type": "paragraph",
+        "text": "**Category strategy that balances cost with adaptive capacity.** The procurement functions that absorbed recent supply disruptions without crisis had dual-source strategies in place, had modelled supply risk at category level, and had relationships with alternative suppliers before they were needed. Lowest-cost sourcing that creates single-source dependency is a liability that does not appear on the balance sheet until it does — catastrophically. 73% of companies have now made supply chain network changes in response to this reality. The organisations that acted proactively are compounding the advantage. Those acting reactively are paying a premium to recover ground."
+      },
+      {
+        "type": "paragraph",
+        "text": "**Capability that stays.** The organisations that sustain performance improvements beyond a specific engagement are those where the methodology, the intelligence, and the skills have been embedded in the internal team. External expertise accelerates the journey — but the destination must be an internal procurement function that operates differently, not one that has been temporarily substituted. Only 29% of supply chain organisations have built the capabilities needed for future performance, according to a major global survey. That leaves 71% managing tomorrow's environment with yesterday's capability — and the gap is not closing on its own."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is the standard we bring to every engagement at the procurement office. Whether the starting point is a diagnostic baseline, a structured sourcing programme across two or three categories, or a broader repositioning of the procurement function — the objective is the same: a procurement function that performs differently after the engagement than it did before."
+      },
+      {
+        "type": "paragraph",
+        "text": "This article draws on aggregated findings from more than 40 procurement research studies published between 2023 and 2026, covering annual CPO surveys (300–1,000+ respondents), digital and AI adoption benchmarks, supply chain resilience surveys (400–437 senior executives), sustainability indices (up to 89,000 companies rated), platform benchmark data ($6 trillion in annual spend), supplier relationship surveys (1,000 supplier representatives), and financial performance benchmarks across industries and geographies. All figures represent published findings or median outcomes from structured procurement engagements. No individual organisation, research firm, or third-party source is named in this article."
+      },
+      {
+        "type": "paragraph",
+        "text": "[Talk to us about your procurement function →](contact.html)"
+      }
+    ]
+  }
+}
