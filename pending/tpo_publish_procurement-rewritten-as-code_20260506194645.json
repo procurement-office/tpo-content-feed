@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "id": "0b39fe59-e117-58ad-b91c-ccc629c0df86",
+  "action": "publish",
+  "slug": "procurement-rewritten-as-code",
+  "title": "Procurement, Rewritten as Code",
+  "standfirst": "As artificial intelligence moves from assistant to operator, procurement is being broken into programmable “skills”. The promise is structure and scale; the risk is authority without accountability.",
+  "status": "published",
+  "document_type": "editorial_article",
+  "article_type": "Editorial",
+  "publication_format": "",
+  "category": "",
+  "language": "en-GB",
+  "byline": "The Procurement Office",
+  "author_id": "tpo-editorial",
+  "published_at": "2026-04-29T00:00:00Z",
+  "footer_note": "",
+  "radar_content_id": 4,
+  "radar_assignment_id": null,
+  "company_slug": "",
+  "radar_signal_id": null,
+  "tags": [
+    "ai",
+    "procurement-transformation",
+    "skills",
+    "editorial"
+  ],
+  "seo": {
+    "title": "Procurement, Rewritten as Code",
+    "description": "Editorial article on AI skills, procurement work and executable sourcing knowledge.",
+    "canonicalSlug": "procurement-rewritten-as-code"
+  },
+  "word_count": 1084,
+  "body": {
+    "format": "tpo-blocks-v1",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "For decades, procurement has been described in the language of process: stage gates, templates and approval flows. Yet those who work within it recognise that the real work takes place elsewhere: in judgement calls, in incomplete information, in conversations that never make it into the file."
+      },
+      {
+        "type": "paragraph",
+        "text": "Artificial intelligence has begun to enter this space. So far, its role has been modest — drafting, summarising, assisting. A different idea is now emerging. Not AI as assistant, but AI as operator."
+      },
+      {
+        "type": "paragraph",
+        "text": "The concept is called a “skill”."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "From prompts to capabilities"
+      },
+      {
+        "type": "paragraph",
+        "text": "Most interactions with AI begin with a prompt: an instruction, a question, a request. Prompts are flexible, but fragile. They depend on phrasing, context and user skill. The same question can yield markedly different answers."
+      },
+      {
+        "type": "paragraph",
+        "text": "A skill takes a different approach. It defines, in advance, what it is responsible for, how it should reason, what it must produce, and the assumptions under which it operates. In that sense, a skill behaves less like a conversation and more like a function."
+      },
+      {
+        "type": "paragraph",
+        "text": "The analogy, however, has limits. A skill is not a specialist. It does not improvise or draw on experience beyond what has been encoded. It is better understood as a codified operator under defined assumptions — effective within its boundaries, brittle beyond them."
+      },
+      {
+        "type": "paragraph",
+        "text": "> The system works only if the human remains actively engaged."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A procurement function, decomposed"
+      },
+      {
+        "type": "image",
+        "alt": "The p9t skills architecture: eleven codified capabilities, each a discrete operator, mapped end-to-end across the procurement lifecycle.",
+        "src": "/assets/images/p9t_image.jpg"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Open the procurement skills repository on GitHub →](https://github.com/procurement-office/procurement-skills.git)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Consider a sourcing exercise. It begins with an unclear need. It moves through market analysis, supplier identification, qualification, negotiation, and ultimately a decision."
+      },
+      {
+        "type": "paragraph",
+        "text": "In a skills-based model, each step becomes a discrete capability. One structures the intake and clarifies the brief. Another assesses complexity and determines the level of effort. Others scan the market, build supplier longlists and qualify candidates. Further skills construct RFX packages, evaluate bids and prepare negotiations. A final skill supports the award decision."
+      },
+      {
+        "type": "paragraph",
+        "text": "Overseeing this is a conductor — an orchestration layer determining which capabilities to activate, and when to intervene. The ambition is not to replace procurement professionals, but to make parts of procurement executable."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Structure — and the risk it introduces"
+      },
+      {
+        "type": "paragraph",
+        "text": "What distinguishes this approach is discipline. Each skill carries a defined reasoning model, a structured output schema, embedded domain references and validation logic. The result is not suggestion, but artifact."
+      },
+      {
+        "type": "paragraph",
+        "text": "Artifacts can be reviewed, reused and audited. That is the promise. It is also the risk."
+      },
+      {
+        "type": "paragraph",
+        "text": "Structured output carries an implicit authority. It appears complete. It reads as final. Errors, when they occur, become harder to detect."
+      },
+      {
+        "type": "paragraph",
+        "text": "A human analyst will often signal uncertainty. A system rarely does — unless explicitly designed to. Without mechanisms to surface assumptions, confidence levels and blind spots, structured output risks becoming something more problematic than guesswork: persuasive error."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Governance, adaptability — and memory"
+      },
+      {
+        "type": "paragraph",
+        "text": "There is a familiar promise in this model. Enterprise systems have long claimed to offer standardisation without rigidity, and best practices that evolve over time. Experience suggests otherwise."
+      },
+      {
+        "type": "paragraph",
+        "text": "Processes harden. “Best practice” ages. Change depends on resources procurement teams rarely control. Skills risk following the same trajectory — unless they are treated differently."
+      },
+      {
+        "type": "paragraph",
+        "text": "Their advantage is not structure, but adaptability. They are lightweight, versionable and explicit. A skill can be rewritten, tested and improved in ways a process document rarely is."
+      },
+      {
+        "type": "paragraph",
+        "text": "But that is an organisational question, not a technical one. Without ownership, even the most carefully constructed specification becomes static — precise, coherent, and quietly outdated."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Composability in an unstructured world"
+      },
+      {
+        "type": "paragraph",
+        "text": "The notion of a “composable procurement function” borrows from software engineering. Procurement, however, is not software."
+      },
+      {
+        "type": "paragraph",
+        "text": "Its inputs are ambiguous. The brief is negotiated. The market is interpreted. The data is incomplete. The skills model does not remove this ambiguity. It attempts to manage it."
+      },
+      {
+        "type": "paragraph",
+        "text": "The intake stage, for example, does not assume clarity. It creates it — through iteration, questioning and refinement. Composability, in this context, is not about clean inputs. It is about progressively structuring ambiguity."
+      },
+      {
+        "type": "paragraph",
+        "text": "Even so, the model is most reliable where procurement is already structured — which explains the initial focus on sourcing. More relational and context-dependent areas remain harder to encode."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Where judgement goes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Proponents argue that human effort shifts upstream: away from execution, towards supervision and orchestration. This is plausible. It is also fragile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supervision requires judgement. Judgement requires experience. If professionals become accustomed to accepting structured outputs without interrogation, underlying competence may erode."
+      },
+      {
+        "type": "paragraph",
+        "text": "In that scenario, the system does not augment expertise. It replaces it — partially, and without acknowledgement."
+      },
+      {
+        "type": "paragraph",
+        "text": "The alternative is more exacting. It requires professionals to interrogate outputs, challenge assumptions and treat the system as a counterpart rather than an authority. Responsibility is not removed. It is redefined — and, arguably, intensified."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What is gained — and what is exposed"
+      },
+      {
+        "type": "paragraph",
+        "text": "The most compelling aspect of the skills approach is not automation. It is visibility."
+      },
+      {
+        "type": "paragraph",
+        "text": "By forcing reasoning into explicit steps, outputs into defined structures, and assumptions into inspectable form, it renders procurement more transparent than it has traditionally been."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tacit knowledge becomes visible. Inconsistencies become detectable. Improvement becomes possible."
+      },
+      {
+        "type": "paragraph",
+        "text": "But visibility is double-edged. It exposes not only strengths, but gaps — particularly those the system cannot address. Skills make reasoning legible. They do not, by themselves, make accountability so."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A beginning, not a conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "Current implementations focus on sourcing for a reason. It is the most structured domain, with the clearest inputs and outputs. It is therefore the most tractable."
+      },
+      {
+        "type": "paragraph",
+        "text": "It is also an incomplete test. More complex domains — supplier relationships, risk, ethics, geopolitics — remain resistant to codification. Whether skills can extend meaningfully into these areas remains an open question."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The more useful question"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is tempting to frame this transition as inevitable. It is not."
+      },
+      {
+        "type": "paragraph",
+        "text": "> Which parts of procurement benefit from becoming programmable — and which lose something essential in the process?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Skills offer one answer. They make certain capabilities repeatable, testable and improvable. They also introduce new risks: false confidence, hidden blind spots, and diffused accountability."
+      },
+      {
+        "type": "paragraph",
+        "text": "The history of business is, in part, a history of abstraction — from manual work to processes, from processes to systems."
+      },
+      {
+        "type": "paragraph",
+        "text": "Skills suggest a further step. Not the replacement of procurement expertise, but its translation into something that can be executed, inspected and improved."
+      },
+      {
+        "type": "paragraph",
+        "text": "The question is not whether procurement will become more programmable. It is whether the people within it will remain sufficiently engaged — and sufficiently critical — when it does."
+      },
+      {
+        "type": "paragraph",
+        "text": "[Open the procurement skills repository on GitHub →](https://github.com/procurement-office/procurement-skills.git)"
+      }
+    ]
+  }
+}
