@@ -1,0 +1,537 @@
+{
+  "schema_version": "1.0",
+  "id": "3e7eb8fe-dc1c-5402-ab56-f7b664e27ab1",
+  "action": "update",
+  "slug": "untitled",
+  "title": "Procurement Skills : Sourcing package",
+  "standfirst": "",
+  "status": "draft",
+  "document_type": "editorial_article",
+  "article_type": "",
+  "publication_format": "",
+  "category": "",
+  "language": "en-GB",
+  "byline": "",
+  "author_id": "",
+  "published_at": "",
+  "footer_note": "",
+  "radar_content_id": 3,
+  "radar_assignment_id": null,
+  "company_slug": "",
+  "radar_signal_id": null,
+  "tags": [],
+  "seo": {
+    "title": "",
+    "description": "",
+    "canonicalSlug": "untitled"
+  },
+  "word_count": 1307,
+  "body": {
+    "format": "tpo-blocks-v1",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "This is a strong editorial review—and importantly, it’s no longer attacking your idea, it’s refining your positioning. That’s where you want to be."
+      },
+      {
+        "type": "paragraph",
+        "text": "The feedback is surgical and correct in all three suggested edits:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* **subtitle** → too self-referential * **human-in-the-loop premise** → misplaced (should frame, not conclude) * **accountability gap** → acknowledged but not *felt*"
+      },
+      {
+        "type": "paragraph",
+        "text": "So rather than another full rewrite, what’s needed is a **precision pass**—tightening structure, not changing substance."
+      },
+      {
+        "type": "paragraph",
+        "text": "Below is the **final editorial**, with those three improvements implemented."
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 1,
+        "text": "Procurement, Rewritten as Code"
+      },
+      {
+        "type": "paragraph",
+        "text": "For decades, procurement has been described in the language of process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Stage gates. Templates. Approval flows."
+      },
+      {
+        "type": "paragraph",
+        "text": "Yet anyone who has worked inside it knows that the real work happens elsewhere: in judgement calls, in incomplete information, in conversations that never make it into the file."
+      },
+      {
+        "type": "paragraph",
+        "text": "Artificial intelligence has begun to enter this space. So far, its role has been modest—drafting, summarising, assisting."
+      },
+      {
+        "type": "paragraph",
+        "text": "But a different idea is now emerging. Not AI as assistant, but AI as **operator**."
+      },
+      {
+        "type": "paragraph",
+        "text": "The concept is called a “skill”."
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "From prompts to capabilities"
+      },
+      {
+        "type": "paragraph",
+        "text": "Most interactions with AI begin with a prompt: an instruction, a question, a request."
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompts are flexible, but fragile. They depend on phrasing, context, and user skill. The same question can yield wildly different answers."
+      },
+      {
+        "type": "paragraph",
+        "text": "A skill takes a different approach."
+      },
+      {
+        "type": "paragraph",
+        "text": "It defines, in advance:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* what it is responsible for * how it should reason * what it must produce * and under which assumptions it operates"
+      },
+      {
+        "type": "paragraph",
+        "text": "In that sense, a skill behaves less like a conversation and more like a function."
+      },
+      {
+        "type": "paragraph",
+        "text": "But it would be a mistake to push the analogy too far."
+      },
+      {
+        "type": "paragraph",
+        "text": "A skill is not a specialist. It does not improvise, intuit, or draw on experience beyond what has been encoded."
+      },
+      {
+        "type": "paragraph",
+        "text": "It is better understood as a **codified operator under defined assumptions**—powerful within its boundaries, brittle outside them."
+      },
+      {
+        "type": "paragraph",
+        "text": "And that leads to a constraint that frames everything that follows:"
+      },
+      {
+        "type": "paragraph",
+        "text": "> **The technology works only if the human remains actively engaged.**"
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A procurement function, decomposed"
+      },
+      {
+        "type": "paragraph",
+        "text": "Take a sourcing exercise."
+      },
+      {
+        "type": "paragraph",
+        "text": "It begins with an unclear need. It moves through market analysis, supplier identification, qualification, negotiation, and ultimately a decision."
+      },
+      {
+        "type": "paragraph",
+        "text": "In the skills model, each of these steps becomes a discrete capability:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* one structures the intake and clarifies the brief * another assesses complexity and determines the appropriate level of effort * others scan the market, build supplier longlists, and qualify candidates * further skills construct RFX packages, evaluate bids, and prepare negotiations * a final skill supports the award decision"
+      },
+      {
+        "type": "paragraph",
+        "text": "Overseeing all of this is a conductor—an orchestration layer that determines which capabilities to activate, and when to step back."
+      },
+      {
+        "type": "paragraph",
+        "text": "The ambition is not to replace procurement professionals, but to **make parts of procurement executable**."
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Structure, and the risk it introduces"
+      },
+      {
+        "type": "paragraph",
+        "text": "What distinguishes this approach is discipline."
+      },
+      {
+        "type": "paragraph",
+        "text": "Each skill carries:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* a playbook for reasoning * a schema defining its output * embedded domain references * and validation logic"
+      },
+      {
+        "type": "paragraph",
+        "text": "The result is structured output—artifacts rather than suggestions."
+      },
+      {
+        "type": "paragraph",
+        "text": "That shift is meaningful. Artifacts can be reviewed, reused, audited."
+      },
+      {
+        "type": "paragraph",
+        "text": "But it introduces a new risk."
+      },
+      {
+        "type": "paragraph",
+        "text": "A well-structured output carries an aura of authority. It looks complete. It reads as final."
+      },
+      {
+        "type": "paragraph",
+        "text": "And that makes errors harder to detect."
+      },
+      {
+        "type": "paragraph",
+        "text": "A human analyst may say, *“I’m not sure.”* A system rarely does—unless explicitly designed to."
+      },
+      {
+        "type": "paragraph",
+        "text": "Without mechanisms to surface:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* assumptions * confidence levels * and blind spots"
+      },
+      {
+        "type": "paragraph",
+        "text": "structured output becomes something more dangerous than guesswork: **it becomes persuasive error.**"
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Governance, adaptability—and memory"
+      },
+      {
+        "type": "paragraph",
+        "text": "There is a familiar promise here."
+      },
+      {
+        "type": "paragraph",
+        "text": "Enterprise systems have long claimed to offer:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* standardisation without rigidity * best practices that evolve over time"
+      },
+      {
+        "type": "paragraph",
+        "text": "History suggests otherwise."
+      },
+      {
+        "type": "paragraph",
+        "text": "Processes calcify. “Best practice” ages quickly. Change depends on resources that procurement teams do not control."
+      },
+      {
+        "type": "paragraph",
+        "text": "Skills risk repeating this pattern—unless they are treated differently."
+      },
+      {
+        "type": "paragraph",
+        "text": "Their advantage is not that they impose structure. It is that they are **lightweight, versionable, and explicit**."
+      },
+      {
+        "type": "paragraph",
+        "text": "A skill can be rewritten, tested, and improved in a way a process document rarely is."
+      },
+      {
+        "type": "paragraph",
+        "text": "But that depends on organisation, not architecture."
+      },
+      {
+        "type": "paragraph",
+        "text": "Without active ownership, even the most elegant SKILL.md becomes just another file— precise, well-written, and quietly outdated."
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Composability in an unstructured world"
+      },
+      {
+        "type": "paragraph",
+        "text": "The idea of a “composable procurement function” borrows from software engineering."
+      },
+      {
+        "type": "paragraph",
+        "text": "But procurement is not software."
+      },
+      {
+        "type": "paragraph",
+        "text": "Its inputs are not clean:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* the brief is negotiated * the market is interpreted * the data is partial"
+      },
+      {
+        "type": "paragraph",
+        "text": "The skills model does not eliminate this ambiguity. At best, it manages it."
+      },
+      {
+        "type": "paragraph",
+        "text": "The intake step, for example, does not assume clarity. It creates it—through guided questioning, iteration, and refinement."
+      },
+      {
+        "type": "paragraph",
+        "text": "In that sense, composability is not about perfect inputs. It is about **progressively structuring ambiguity**."
+      },
+      {
+        "type": "paragraph",
+        "text": "Even so, the system is most reliable where procurement is already structured— which is why sourcing is the starting point."
+      },
+      {
+        "type": "paragraph",
+        "text": "The more strategic, relational, and context-dependent areas remain harder to encode."
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Where judgement goes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Proponents of this model argue that human effort moves “upstream”: away from execution, towards supervision and orchestration."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is plausible. It is also fragile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Supervision requires judgement. Judgement requires experience."
+      },
+      {
+        "type": "paragraph",
+        "text": "If professionals become accustomed to accepting structured outputs without challenge, the underlying competence risks erosion."
+      },
+      {
+        "type": "paragraph",
+        "text": "The system, in that scenario, does not augment expertise. It replaces it—quietly, and incompletely."
+      },
+      {
+        "type": "paragraph",
+        "text": "The alternative is more demanding."
+      },
+      {
+        "type": "paragraph",
+        "text": "It requires professionals to:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* interrogate outputs * challenge assumptions * and treat the system as a counterpart, not an authority"
+      },
+      {
+        "type": "paragraph",
+        "text": "In other words, the system does not remove responsibility. It raises the standard for exercising it."
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What is gained—and what is exposed"
+      },
+      {
+        "type": "paragraph",
+        "text": "The most compelling aspect of the skills approach is not automation."
+      },
+      {
+        "type": "paragraph",
+        "text": "It is exposure."
+      },
+      {
+        "type": "paragraph",
+        "text": "By forcing:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* reasoning into explicit steps * outputs into defined structures * and assumptions into something that can be inspected"
+      },
+      {
+        "type": "paragraph",
+        "text": "it makes procurement more transparent than it has traditionally been."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tacit knowledge becomes visible. Inconsistencies become detectable. Improvements become possible."
+      },
+      {
+        "type": "paragraph",
+        "text": "But visibility cuts both ways."
+      },
+      {
+        "type": "paragraph",
+        "text": "It exposes not only strengths, but gaps— including those the system cannot fill."
+      },
+      {
+        "type": "paragraph",
+        "text": "Skills make reasoning visible, but they do not make responsibility clear."
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "A beginning, not a conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "The current implementations focus on sourcing for a reason."
+      },
+      {
+        "type": "paragraph",
+        "text": "It is the most structured part of procurement, with the clearest inputs and outputs."
+      },
+      {
+        "type": "paragraph",
+        "text": "That makes it the most tractable."
+      },
+      {
+        "type": "paragraph",
+        "text": "It also makes it an incomplete test."
+      },
+      {
+        "type": "paragraph",
+        "text": "The harder domains—supplier relationships, risk, ethics, geopolitics—remain resistant to codification."
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether skills can extend meaningfully into those areas is an open question."
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "The more useful question"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is tempting to frame this shift as inevitable."
+      },
+      {
+        "type": "paragraph",
+        "text": "It is not."
+      },
+      {
+        "type": "paragraph",
+        "text": "The more useful question is narrower, and more demanding:"
+      },
+      {
+        "type": "paragraph",
+        "text": "> Which parts of procurement benefit from becoming programmable— > and which parts lose something essential in the process?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Skills offer one answer."
+      },
+      {
+        "type": "paragraph",
+        "text": "They make certain capabilities:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* repeatable * testable * and improvable"
+      },
+      {
+        "type": "paragraph",
+        "text": "But they also introduce new risks:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* false confidence * hidden blind spots * and diffused accountability"
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Closing thought"
+      },
+      {
+        "type": "paragraph",
+        "text": "The history of business is, in part, the history of abstraction— from manual work to processes, from processes to systems."
+      },
+      {
+        "type": "paragraph",
+        "text": "Skills suggest a further step."
+      },
+      {
+        "type": "paragraph",
+        "text": "Not the replacement of procurement expertise, but its **translation into something that can be executed, inspected, and improved**."
+      },
+      {
+        "type": "paragraph",
+        "text": "The question is not whether procurement will become more programmable."
+      },
+      {
+        "type": "paragraph",
+        "text": "The question is whether the people inside it will remain legible to themselves when it does."
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "✦ What changed (so you see the precision)"
+      },
+      {
+        "type": "paragraph",
+        "text": "* Subtitle removed → cleaner, more authoritative * Human-in-the-loop moved up → now frames entire argument * Accountability line inserted → and intentionally left unresolved * Ending strengthened → tension + forward-looking"
+      },
+      {
+        "type": "rule"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you want next step, I’d suggest:"
+      },
+      {
+        "type": "paragraph",
+        "text": "* a **companion visual (infographic or FT-style graphic)** * or a **GitHub README version translating this into dev language**"
+      },
+      {
+        "type": "paragraph",
+        "text": "This piece is now at a level where it can anchor both."
+      }
+    ]
+  }
+}
